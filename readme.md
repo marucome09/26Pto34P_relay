@@ -71,11 +71,11 @@ Power Cable(必要な長さは機種によって違うためそれぞれの機�
 
 上に合わせてケーブルを作成し取り付けて完成です。
 
-![power_conn](https://github.com/marucome09/26Pto34P_relay/blob/master/power_conn.JPG )
+![power_conn](https://github.com/marucome09/26Pto34P_relay/blob/master/power_conn.jpg )
 
 なお、FDD(もしくはエミュレーター）側の電源コネクタはこのように制作します。
 
-![fddpower](https://github.com/marucome09/26Pto34P_relay/blob/master/FDD_power.JPG )
+![fddpower](https://github.com/marucome09/26Pto34P_relay/blob/master/FDD_power.jpg )
 
 小型なので、完成するとほぼケーブルでみえなくなります。
 
