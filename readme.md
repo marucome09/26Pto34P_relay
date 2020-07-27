@@ -70,25 +70,23 @@ Power Cable(必要な長さは機種によって違うためそれぞれの機�
 ![solder1](https://github.com/marucome09/26Pto34P_relay/blob/master/product26_1_1.JPG)
 
 
-電源の２Pコネクタは、コネクタ側（内側）が＋極になっています。それに合わせて2pピンヘッダをつけます。（スイッチサイエンス様で販売の製品版にはありません、ケーブル直付になります）
+電源の２Pコネクタは、コネクタ側（内側）が＋極になっています。それに合わせてケーブルを付けます。（２Pのコネクタヘッダをつけてもいいと思います、スイッチサイエンス様で販売の製品版はケーブル直付になります）
 
 （シルク印刷されてますが写真では見にくいので強調しました、写真は26P_convのモノを使用していますが取り付け方は同じです。）
 
-![box_socket](https://github.com/marucome09/26Pto34P_relay/blob/master/box_socket.JPG )
+![box_socket](https://github.com/marucome09/26Pto34P_relay/blob/master/pow_socket.JPG )
 
-![box_socket2](https://github.com/marucome09/26Pto34P_relay/blob/master/box_socket2.JPG )
+![box_socket2](https://github.com/marucome09/26Pto34P_relay/blob/master/pow_socket2.JPG )
 
 もしくはケーブル直付けでも構いません。
 
 上に合わせてケーブルを作成し取り付けて完成です。
 
-![power_conn](https://github.com/marucome09/26Pto34P_relay/blob/master/power_conn.jpg )
-
 なお、FDD(もしくはエミュレーター）側の電源コネクタはこのように制作します。
 
 ![fddpower](https://github.com/marucome09/26Pto34P_relay/blob/master/FDD_power.jpg )
 
-小型なので、完成するとほぼケーブルでみえなくなります。
+小型なので、完成するとほぼケーブルでみえなくなります。（写真は試作品ですので電源ハンダ穴の位置が少し違います）
 
 ![adapter1](https://github.com/marucome09/26Pto34P_relay/blob/master/adapter1.JPG )
 
