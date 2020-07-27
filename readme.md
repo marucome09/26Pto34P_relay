@@ -70,15 +70,14 @@ Power Cable(必要な長さは機種によって違うためそれぞれの機�
 ![solder1](https://github.com/marucome09/26Pto34P_relay/blob/master/product26_1_1.JPG)
 
 
-電源の２Pコネクタは、コネクタ側（内側）が＋極になっています。それに合わせてケーブルを付けます。（２Pのコネクタヘッダをつけてもいいと思います、スイッチサイエンス様で販売の製品版はケーブル直付になります）
-
-（シルク印刷されてますが写真では見にくいので強調しました、写真は26P_convのモノを使用していますが取り付け方は同じです。）
+電源の２Pコネクタは、上側が＋極になっています。それに合わせてケーブルを付けます。（２Pのコネクタヘッダをつけてもいいと思います、スイッチサイエンス様で販売の製品版はケーブル直付になります）
 
 ![box_socket](https://github.com/marucome09/26Pto34P_relay/blob/master/pow_socket.JPG )
 
+写真はテスト品なのでホットボンドがついていて見にくいですが、基板左（上）側が+、34Pコネクタ側が-になっています。
+
 ![box_socket2](https://github.com/marucome09/26Pto34P_relay/blob/master/pow_socket2.JPG )
 
-もしくはケーブル直付けでも構いません。
 
 上に合わせてケーブルを作成し取り付けて完成です。
 
@@ -86,7 +85,7 @@ Power Cable(必要な長さは機種によって違うためそれぞれの機�
 
 ![fddpower](https://github.com/marucome09/26Pto34P_relay/blob/master/FDD_power.jpg )
 
-小型なので、完成するとほぼケーブルでみえなくなります。（写真は試作品ですので電源ハンダ穴の位置が少し違います）
+小型なので、完成するとほぼケーブルでみえなくなります。（写真は試作品ですので電源コネクタ、およびコネクタのハンダ穴の位置が少し違います）
 
 ![adapter1](https://github.com/marucome09/26Pto34P_relay/blob/master/adapter1.JPG )
 
